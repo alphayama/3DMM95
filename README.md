@@ -10,9 +10,9 @@ under the [MIT license](LICENSE) as open source.
 This project is unlikely to build successfully under modern hardware/software, but you can get started with compilation and get partial completed binaries. Here's what will get you going. Thanks to Mac Sample for their work on getting this far!
 
 - Make sure this repo is checked out to a folder with a short name, ideally right on the root of a drive (i.e. C:\3d).
-- You will need Visual C++ 2.0's dev tools (located under MSVC20\BIN on its installer disk) on your path. Modern compilers dislike some of the pre C++98 conventions.
+- You will need Visual C++ 2.0's dev tools (located under MSVC20\BIN on its installer disk) on your path. It is available on some websites that have a collection of old software, dev tools and OSes. Modern compilers dislike some of the pre C++98 conventions.
 - From the root of this repo, run ```setvars.bat``` you can change the values in this script to change what your build will target.
-- Locate and place font files (see [FONTS.md](FONTS.md))
+- Locate and place font files using ```fontscopy.bat``` (see [FONTS.md](FONTS.md))
 - Run nmake and you'll begin building 3d Movie Maker.
 
 ## Contributing
