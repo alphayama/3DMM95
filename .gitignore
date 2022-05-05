@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Ignore Copied Fonts
+SETUP/BIN/comic.ttf
+SETUP/BIN/comicbd.ttf
+cd12/SETUP/BIN/comic.ttf
+cd12/SETUP/BIN/comicbd.ttf
+cd3/SETUP/comic.ttf
+cd3/SETUP/comicbd.ttf
+
 # User-specific files
 *.rsuser
 *.suo
