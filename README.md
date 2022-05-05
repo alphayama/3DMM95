@@ -1,9 +1,9 @@
-# Microsoft 3D Movie Maker
+# #DMM95 [Fork of Microsoft 3D Movie Maker]
 
 Released in 1995, this is the original source code to the Microsoft 3D Movie Maker project, now released
 under the [MIT license](LICENSE) as open source.
 
-![3D Movie Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker/blob/main/IMG/3dmovie.jpg?raw=true)
+<center><img src="./IMG/3dmovie.jpg" width="300"></center>
 
 ## Building instructions
 
